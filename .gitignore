@@ -1,0 +1,14 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Node
+**/node_modules/
+
+# Kubernetes
+kubeconfig
+
+# OS
+.DS_Store
